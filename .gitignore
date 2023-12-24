@@ -1,0 +1,5 @@
+#Ignore temporary files eg .s#1 or .b#9
+*.[sb]#*
+
+#ignore log files
+*.log
